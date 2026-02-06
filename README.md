@@ -28,19 +28,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
 </p>
-
-<p align="center">
-  <a href="https://github.com/balezeauquentin?tab=repositories" target="">
-    <img src="https://img.shields.io/badge/My%20Projects-%2312100E.svg?logo=github&style=for-the-badge" alt="GitHub" />
-  </a>
-  <a href="https://balezeau.fr" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=google-chrome" alt="Website" />
-  </a>
-  <a href="mailto:quentin.balezeau@utbm.fr" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <!-- Badge LinkedIn -->
-  <a href="https://www.linkedin.com/in/quentin-balezeau" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
