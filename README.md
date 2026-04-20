@@ -37,19 +37,11 @@ Final-year CS engineering student, mostly interested in AI and what it can do wh
 
 <h3 align="center">Stack</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="python" width="36" height="36"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="36" height="36"/>
-  &nbsp;
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="36" height="36"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="36" height="36"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="archlinux" width="36" height="36"/>
-</p>
+<div align="center">
+  
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,docker,git,arch&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
