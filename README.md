@@ -10,14 +10,14 @@
 
 <p align="center">
   <em>Building at the intersection of <strong>LLMs · VLMs · Robotics</strong></em><br/>
-  Engineering Student @ <a href="https://www.utbm.fr/">UTBM</a> &nbsp;·&nbsp; R&D Intern @ <a href="https://www.alten.com/">ALTEN</a>
+  Engineering Student @ <a href="https://www.utbm.fr/">UTBM</a>
 </p>
 
 <br/>
 
-Final-year CS engineering student, mostly interested in AI and what it can do when applied to real systems — perception, robotics, embodied agents.
+Final-year CS engineering student, mostly interested in AI and what it can do when applied to real systems, perception, robotics, embodied agents.
 
-**Currently:** Researching VLM-based semantic scene understanding for autonomous driving — building the perception layer that feeds a pedestrian intention prediction pipeline (Research Intern @ ALTEN Innovation Lab).
+**Currently:** Seeking a position as AI engineer in an R&D Lab
 
 ---
 
